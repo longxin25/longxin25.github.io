@@ -25,8 +25,6 @@
   [笔记首页](https://longxin25.github.io/Algorithm)
 
 ---
-
-  * 目录
   
   [准备知识](https://longxin25.github.io/Algorithm/docs/01)
   
