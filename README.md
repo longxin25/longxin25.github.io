@@ -21,24 +21,20 @@
   本笔记以循序渐进的方式对数据结构和算法相关的知识进行了梳理，并且贯穿了一些实际应用场景，包括但不仅限于底层设计、工业场景等，尝试剖析其底层设计思想和实现过程。目前整理了绝大部分基础内容，并进行了修正和简化。仓库内的参考代码采用 Python3 实现，并且经过了随机运行结果检验，后续会持续添加其它语言版本以及不同方法的代码实现，通过不断更新来力求内容的全面和丰富。如果您有任何问题或者建议，欢迎提交 issue 讨论。
   
 ### 快速开始
-
-  [笔记首页](https://longxin25.github.io/Algorithm)
-
----
   
-  [准备知识](https://longxin25.github.io/Algorithm/docs/01)
+  - [x] [准备知识](https://longxin25.github.io/Algorithm/docs/01)
   
-  [数据结构基础](https://longxin25.github.io/Algorithm/docs/02)
+  - [x] [数据结构基础](https://longxin25.github.io/Algorithm/docs/02)
   
-  [数据结构进阶](https://longxin25.github.io/Algorithm/docs/03)
+  - [x] [数据结构进阶](https://longxin25.github.io/Algorithm/docs/03)
   
-  [常用排序算法](https://longxin25.github.io/Algorithm/docs/04)
+  - [x] [常用排序算法](https://longxin25.github.io/Algorithm/docs/04)
   
-  [常用算法思想](https://longxin25.github.io/Algorithm/docs/05)
+  - [x] [常用算法思想](https://longxin25.github.io/Algorithm/docs/05)
   
-  [应用实例及分析](https://longxin25.github.io/Algorithm/docs/06)
+  - [x] [应用实例及分析](https://longxin25.github.io/Algorithm/docs/06)
   
-  [笔记内容总结](https://longxin25.github.io/Algorithm/docs/07)
+  - [x] [笔记内容总结](https://longxin25.github.io/Algorithm/docs/07)
   
 
 ### 笔记代码
